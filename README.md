@@ -2,6 +2,7 @@
 
 Bu proje, Lınkedın clone sitesi yapımı için oluşturulmuştur.
 
+
 ## Proje İçeriği
 
 ## Kullanılan Teknolojiler
@@ -22,4 +23,9 @@ Bu proje, Lınkedın clone sitesi yapımı için oluşturulmuştur.
    
    ## Geliştirici
 
+- **Ad**: [Enes Polat](https://github.com/enespolat25)
+
+## Düzenleyen
+
 - **Ad**: [Saim Efe Omağ](https://github.com/Efe774)
+
